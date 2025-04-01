@@ -1,2 +1,3 @@
-# Python Projects
-An overview of a few python projects I have done including a PyQt5 Clock Widget,PyQt5 StopWatch,a Shopping cart program, Python Weight Converter, Python Compound Interest Calculator, Python Banking Program and a Number Geussing Game.
+# Data Cleaning and Exploratory Data Analysis
+An overview of a data cleaning project to ensure data used to analyse company layoffs is useful and can easily provide information the company needs moving forward.
+Bothe the row data and the clan data are available below.
